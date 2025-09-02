@@ -10,8 +10,8 @@
 
 ## 💫 About Me  
 - 😄 Pronouns: **She/Her**  
-- 👩‍💻 Portfolio: [View Here](#)  
-- 📄 Resume: [Download Here](#)  
+- 👩‍💻 Portfolio: [View Here](https://debashritasahoo.netlify.app/)  
+- 📄 Resume: [Download Here](https://drive.google.com/file/d/1sa5TD13RNwPZjnxhIsSiDVmsdf8wCr4g/view?usp=sharing)  
 - 📫 Reach me: **mkdebashritasahoo@gmail.com**
 
 ---
