@@ -13,7 +13,7 @@
 ---
 
 ## 💫 About Me  
-<img align="right" src="https://assets-v2.lottiefiles.com/a/4364cddc-1189-11ee-91c1-ebf0c9fd63d3/UlLalnbCjy.gif" width="350px" />
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRyE9a_w65uMI8JZyy5Uhc7Ojr2iqw0MJwrw&s" width="350px" />
 
 - 😄 Pronouns: **She/Her**  
 - 👩‍💻 Portfolio: [View Here](https://debashritasahoo.netlify.app/)  
