@@ -54,6 +54,13 @@
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=debashritaSahoo12&theme=onedark&margin-w=10&margin-h=10" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!" />
 </p>
