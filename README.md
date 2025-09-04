@@ -13,7 +13,7 @@
 ---
 
 ## 💫 About Me  
-<img align="right" src="https://www.shutterstock.com/image-vector/cartoon-beard-handsome-character-casual-600nw-2174922633.jpg" width="350px" />
+<img align="right" src="https://assets-v2.lottiefiles.com/a/4364cddc-1189-11ee-91c1-ebf0c9fd63d3/UlLalnbCjy.gif" width="350px" />
 
 - 😄 Pronouns: **She/Her**  
 - 👩‍💻 Portfolio: [View Here](https://debashritasahoo.netlify.app/)  
