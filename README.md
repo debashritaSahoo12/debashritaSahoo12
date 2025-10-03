@@ -58,6 +58,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=debashritasahoo12&theme=react-dark" />
 </p>
 
+![Snake animation](https://raw.githubusercontent.com/mohd-murtaza/mohd-murtaza/output/github-contribution-grid-snake-dark.svg)
+
+<br />
 ---
 
 ## 🏆 GitHub Trophies
