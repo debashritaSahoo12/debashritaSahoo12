@@ -17,7 +17,7 @@
 
 - 😄 Pronouns: **She/Her**  
 - 👩‍💻 Portfolio: [View Here](https://debashritasahoo.netlify.app/)  
-- 📄 Resume: [Download Here](https://drive.google.com/file/d/1DSIv-ppsEE8Z5bd4x8N1G58N-MJ1cctA/view?usp=sharing)  
+- 📄 Resume: [Download Here](https://drive.google.com/file/d/1_tNpr5fyoM4z7X78yOOXeHnIC4of8qTU/view?usp=sharing)  
 - 📫 Reach me: **mkdebashritasahoo@gmail.com**
 
 ---
